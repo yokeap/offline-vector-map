@@ -1,0 +1,32 @@
+{
+    "options": {
+      "paths": {
+        "root": "./public/gl-style",
+        "fonts": "fonts",
+        "sprites": "sprites",
+        "styles": "styles",
+        "mbtiles": "data"
+      },
+      "serveStaticMaps": false,
+      "formatQuality": {
+        "jpeg": 90,
+        "webp": 90,
+        "png" : 50
+      },
+      "maxSize": 8192,
+      "pbfAlias": "pbf"
+    },
+    "styles": {
+      "osm-bright": {
+        "style": "osm-bright/osm_bright.json",
+        "tilejson": {
+          "bounds": [13.817839, 100.506126, 13.809265, 100.519591]
+        }
+      }
+    },
+    "data": {
+        "v3": {
+            "mbtiles": "bangkok.mbtiles"
+          }
+      }
+  }
