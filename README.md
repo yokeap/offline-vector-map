@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-An exeriment of display vector map on HTML5 from local server. A offline vector tile (mbtiles) which is download from openmaptiles was used as map source and hosted by tileserver-gl-light. 
+An exeriment of display vector map on HTML5 from local server. Offline vector tile (mbtiles) which is downloaded from openmaptiles was used as map source and hosted by tileserver-gl-light. 
 
 Folder gl-styles is contained style and map data, OSM-Bright style is modified for local use which based on Mapbox GL style specification. 
 
