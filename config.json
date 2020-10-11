@@ -10,8 +10,7 @@
       "serveStaticMaps": false,
       "formatQuality": {
         "jpeg": 90,
-        "webp": 90,
-        "png" : 50
+        "webp": 90
       },
       "maxSize": 8192,
       "pbfAlias": "pbf"
@@ -26,7 +25,7 @@
     },
     "data": {
         "v3": {
-            "mbtiles": "bangkok.mbtiles"
+            "mbtiles": "ิbangkok.mbtiles"
           }
       }
   }
